@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vlingo:vlingo-streams:1.3.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-streams/1.3.4-SNAPSHOT/vlingo-streams-1.3.4-20200814.194023-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-streams/1.3.4-SNAPSHOT/vlingo-streams-1.3.4-20200814.194023-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-streams/1.3.4-SNAPSHOT/vlingo-streams-1.3.4-20200814.194023-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

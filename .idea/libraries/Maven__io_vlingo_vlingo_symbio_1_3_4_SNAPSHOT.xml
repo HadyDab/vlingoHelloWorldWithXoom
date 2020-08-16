@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vlingo:vlingo-symbio:1.3.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-symbio/1.3.4-SNAPSHOT/vlingo-symbio-1.3.4-20200814.193718-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-symbio/1.3.4-SNAPSHOT/vlingo-symbio-1.3.4-20200814.193718-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vlingo/vlingo-symbio/1.3.4-SNAPSHOT/vlingo-symbio-1.3.4-20200814.193718-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
