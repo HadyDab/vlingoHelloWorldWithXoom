@@ -1,0 +1,16 @@
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingDescriptionChanged.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingDefined.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/persistence/StateStoreProvider.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingMesageChanged.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/data/UpdateGreetingData.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingPlaceholderDefined.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/resource/HelloResources.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/Greeting.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/persistence/QueriesActor.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/data/GreetingData.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/persistence/Queries.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingState.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/persistence/GreetingStateAdapter.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/resource/GreetingResource.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/model/greeting/GreetingEntity.java
+/home/hadydab/eclipse-workspace/vlingoHelloWorldWithXoom/src/main/java/com/thesis2020/version2/infrastructure/Bootstrap.java

@@ -7,6 +7,7 @@ import com.thesis2020.version2.resource.GreetingResource;
 
 import io.vlingo.actors.GridAddressFactory;
 import io.vlingo.actors.Stage;
+import io.vlingo.actors.UUIDAddressFactory;
 import io.vlingo.actors.World;
 import io.vlingo.common.identity.IdentityGeneratorType;
 import io.vlingo.http.resource.Configuration.Sizing;

@@ -27,7 +27,7 @@ public class GreetingResource extends ResourceHandler {
 
     public GreetingResource(final Stage stage) {
         this.stage = stage;
-        this.addressFactory = stage.world().addressFactory();
+        this.addressFactory = stage.addressFactory();
         this.queries = StateStoreProvider.instance().queries;
     }
 
@@ -42,7 +42,7 @@ public class GreetingResource extends ResourceHandler {
     }
 
     private RequestHandler postGreeting(){
-        return ResourceBuilder.post("/greeting")
+        return ResourceBuilder.post("/greetings")
                 .body(GreetingData.class)
                 .handle(this::defineGreeting);
     }
@@ -54,14 +54,14 @@ public class GreetingResource extends ResourceHandler {
     }
 
     private RequestHandler changeMessage(){
-        return ResourceBuilder.get("/greetings/{greetingId}/message")
+        return ResourceBuilder.patch("/greetings/{greetingId}/message")
                 .param(String.class)
                 .body(UpdateGreetingData.class)
                 .handle(this::updateMessage);
     }
 
     private RequestHandler changeDescription(){
-        return ResourceBuilder.get("/greetings/{greetingId}/description")
+        return ResourceBuilder.patch("/greetings/{greetingId}/description")
                 .param(String.class)
                 .body(UpdateGreetingData.class)
                 .handle(this::updateDescription);

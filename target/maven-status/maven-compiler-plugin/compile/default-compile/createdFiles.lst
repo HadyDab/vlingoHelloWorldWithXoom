@@ -1,0 +1,17 @@
+com/thesis2020/version2/infrastructure/persistence/StateStoreProvider.class
+com/thesis2020/version2/infrastructure/data/GreetingData.class
+com/thesis2020/version2/resource/HelloResources.class
+com/thesis2020/version2/model/greeting/GreetingPlaceholderDefined.class
+com/thesis2020/version2/model/greeting/GreetingDescriptionChanged.class
+com/thesis2020/version2/infrastructure/persistence/Queries.class
+com/thesis2020/version2/infrastructure/persistence/StateStoreProvider$1.class
+com/thesis2020/version2/infrastructure/data/UpdateGreetingData.class
+com/thesis2020/version2/infrastructure/persistence/GreetingStateAdapter.class
+com/thesis2020/version2/model/greeting/GreetingMesageChanged.class
+com/thesis2020/version2/infrastructure/persistence/QueriesActor.class
+com/thesis2020/version2/resource/GreetingResource.class
+com/thesis2020/version2/model/greeting/GreetingDefined.class
+com/thesis2020/version2/infrastructure/Bootstrap.class
+com/thesis2020/version2/model/greeting/Greeting.class
+com/thesis2020/version2/model/greeting/GreetingEntity.class
+com/thesis2020/version2/model/greeting/GreetingState.class
